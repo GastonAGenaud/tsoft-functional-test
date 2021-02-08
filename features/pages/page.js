@@ -1,5 +1,10 @@
-import { nonGMB } from './nonGMB.page'
+import { Home } from './home.page'
+import { Product } from './product.page'
+import { Search } from './search.page'
 
 export const page = {
-  nongmb: new nonGMB(),
+  home: new Home(),
+  search: new Search(),
+  product: new Product(),
+
 }

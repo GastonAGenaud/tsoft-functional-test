@@ -1,2 +1,2 @@
 # tsoft-functional-test
-For TSOFT.
+test library prototype for TSOFT.
